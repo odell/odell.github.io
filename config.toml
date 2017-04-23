@@ -1,0 +1,6 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "🤷🏻‍♂️"
+
+[Params]
+  Author = "Daniel Odell"
