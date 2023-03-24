@@ -33,6 +33,7 @@ links = page.add_card()
 links.add_header('Links')
 links.add_link('GitHub', 'https://github.com/odell')
 links.add_link('BAND Collaboration', 'https://bandframework.github.io')
+links.add_link('Mastodon', 'https://mastodon.social/@odell')
 
 with open('index.html', 'w+') as f:
     f.write(page.to_html())
