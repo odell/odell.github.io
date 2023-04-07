@@ -21,7 +21,7 @@ checking them out.')
 links.add_link('BAND Collaboration', 'https://bandframework.github.io')
 links.add_text('''
 Check out the exciting work we\'re doing in the Bayesian Analysis of Nuclear
-Dynamics collaboration (and the awesome people doing it.
+Dynamics collaboration (and the awesome people doing it.)
 ''')
 
 links.add_link('Mastodon', 'https://mastodon.social/@odell')
