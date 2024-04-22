@@ -38,6 +38,7 @@ resume = page.add_card()
 resume.add_header('Miniature Resumé')
 
 resume.add_header('History', size=3)
+resume.add_text('Physicist, Savannah River National Laboratory (2023)')
 resume.add_text('Postdoctoral Researcher, Ohio University (Current)')
 resume.add_text('PhD Theoretical Physics, University of Tennessee (2019)')
 resume.add_text('Research Assistant, University of Tennessee (2015)')
